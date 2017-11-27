@@ -1,0 +1,8 @@
+.brick {
+  display: inline-block;
+  height: 20px;
+  width: 100px;
+  border: 2px #B8860B solid;
+  background: #FF8C00;
+  box-sizing: border-box;
+}

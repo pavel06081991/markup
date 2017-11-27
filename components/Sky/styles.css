@@ -1,0 +1,29 @@
+.sky {
+  position: relative;
+  background: blue;
+}
+
+.sky .sun {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.sky .cloud {
+  position: absolute;
+}
+
+.sky .cloud:nth-child(2) {
+  top: 100px;
+  left: 350px;
+}
+
+.sky .cloud:nth-child(3) {
+  top: 100px;
+  left: 650px;
+}
+
+.sky .cloud:nth-child(4) {
+  top: 100px;
+  left: 950px;
+}

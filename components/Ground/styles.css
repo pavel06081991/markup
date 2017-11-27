@@ -1,0 +1,10 @@
+.ground {
+  position: relative;
+  background: green;
+}
+
+.ground .house {
+  position: absolute;
+  top: 100px;
+  right: 180px;
+}

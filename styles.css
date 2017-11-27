@@ -1,0 +1,11 @@
+@import 'normalize.css';
+
+@import 'global.css';
+
+@import 'components/Page/styles.css';
+@import 'components/Sun/styles.css';
+@import 'components/Cloud/styles.css';
+@import 'components/House/styles.css';
+@import 'components/Sky/styles.css';
+@import 'components/Ground/styles.css';
+@import 'components/Brick/styles.css';

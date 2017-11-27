@@ -1,0 +1,15 @@
+.page {
+  width: 1280px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page .sky {
+  height: 340px;
+}
+
+.page .ground {
+  flex-grow: 1;
+}
